@@ -1,0 +1,33 @@
+body{
+    background-color: rosybrown;
+}
+
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+p{
+    color:gold;
+}
+
+h{
+    font-size: xx-large; 
+    color: brown; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.header, .footer{
+    background-color:darkblue;
+    height: 50px;
+    width: 100%;
+}
+header{
+    height: 100px;
+    background: darkorchid;
+}
+
+
+footer {
+    height: 100px;
+    background: darkmagenta;
+}
